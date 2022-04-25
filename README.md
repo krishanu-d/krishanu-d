@@ -7,7 +7,6 @@ Skills:  JS / HTML / CSS
 
 - 🌱 I’m currently learning CSS and JavaScript 
 - 📫 How to reach me: krishanuprabhu@gmail.com 
-- 😄 Pronouns: He/him 
 - ⚡ Fun fact: I play drums/tabla. I also like to go for swims. 
 
 
