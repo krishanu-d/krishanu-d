@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Krishanu
 #### I am a college student
-Doing my major in Computer Science and Engineering. I am currently learning Full Stack Development.
+Doing my major in Computer Science and Engineering.
 
 
 Skills:  JS / HTML / CSS
