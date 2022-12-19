@@ -3,9 +3,9 @@
 Doing my major in Computer Science and Engineering.
 
 
-Skills:  JS / HTML / CSS
+Skills:  JS / HTML / CSS / Angular / NodeJS / MySQL / React Native
 
-- 🌱 I’m currently learning CSS and JavaScript 
+- 🌱 I’m currently learning React Native and Solidity.
 - 📫 How to reach me: krishanuprabhu@gmail.com 
 - ⚡ Fun fact: I play drums/tabla. I also like to go for swims. 
 
