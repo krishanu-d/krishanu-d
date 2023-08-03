@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Krishanu
-#### I am a college student
-Doing my major in Computer Science and Engineering.
+
+Done with my major in Computer Science and Engineering.
 
 
-Skills:  JS / HTML / CSS / Angular / NodeJS / MySQL / React Native
+Skills:  JS / HTML / CSS / Angular / NodeJS / MySQL / React Native / ReactJS
 
 - 🌱 I’m currently learning React Native and Solidity.
 - 📫 How to reach me: krishanuprabhu@gmail.com 
