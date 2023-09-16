@@ -1,14 +1,27 @@
-### Hi there 👋, my name is Krishanu
+# Hi there, I'm a React Native Developer 👋
 
-Done with my major in Computer Science and Engineering.
+## I'm a Fresh Graduate, Developer, and Learner!!
+
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2023 Goals: Contribute to Open Source projects and get my hands dirty in React Native.
+- ⚡ Fun fact: I love to play tabla/drums and go for swims.
+
+  <br />
 
 
-Skills:  JS / HTML / CSS / Angular / NodeJS / MySQL / React Native / ReactJS
+### Languages and Tools:
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,mysql,postman)
 
-- 🌱 I’m currently learning React Native and Solidity.
-- 📫 How to reach me: krishanuprabhu@gmail.com 
-- ⚡ Fun fact: I play drums/tabla. I also like to go for swims. 
+### Connect with me:
+
+[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/krishanu-p/)
+<br />
+<br />
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/krishanu-d)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/krishanu-p/)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanu-d&show_icons=true&locale=en&layout=compact" alt="krishanu-d" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanu-d&" alt="krishanu-d" /></p>
