@@ -2,7 +2,7 @@
 
 ## I'm a Fresh Graduate, Developer, and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute to Open Source projects and get my hands dirty in React Native.
 - ⚡ Fun fact: I love to play tabla/drums and go for swims.
