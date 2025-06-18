@@ -11,7 +11,7 @@
 
 
 ### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,mysql,go,postman)
+![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,nestjs,go,mysql,postman)
 
 ### Connect with me:
 
