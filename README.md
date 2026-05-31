@@ -14,13 +14,14 @@ React Native & Full Stack Developer · ~3 years building production mobile and w
 
 ### 💼 Professional experience
 
-- Full stack dev at **Viamagus** since Oct 2023 — offline-first mobile apps, real-time processing platforms, content & tracking systems
+- Full stack dev at **Viamagus** since Oct 2023 — React Native mobile, React web, and NestJS backend across multiple production projects
 - Previously interned at Riverhouse Technologies
 
 ### ⚡ Fun facts
 
 - Play tabla & drums 🥁 — rhythm absolutely helps with debugging
-- Regular swimmer · B.Tech CS, CSIT Durg (2023)
+- Frequent swimmer
+-  B.Tech CS, CSIT Durg (2023)
 
 ---
 
@@ -42,4 +43,4 @@ React Native & Full Stack Developer · ~3 years building production mobile and w
 
 ---
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/krishanu-p/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/krishanu-d/)
