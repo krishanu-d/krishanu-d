@@ -1,27 +1,45 @@
-# Hi there, I'm a React Native Developer 👋
+# Hey, I'm Krishanu 👋
 
-## I'm a Fresh Graduate, Developer, and Learner!!
+React Native & Full Stack Developer · ~3 years building production mobile and web apps
 
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute to Open Source projects and get my hands dirty in React Native.
-- ⚡ Fun fact: I love to play tabla/drums and go for swims.
+![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,nestjs,graphql,firebase,mysql,vite,postman)
 
-  <br />
+---
 
+### 🔨 What I'm up to
 
-### Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=react,js,html,css,nodejs,nestjs,go,mysql,postman)
+- Building **HashCave** — a local-first, AES-256-GCM encrypted password manager in React Native (no Expo)
+- Deepening CS fundamentals: data structures, algorithms, and JS internals (Event Loop, Promises, closures)
+- Exploring AG Grid and advanced React 18 patterns for data-heavy UIs
 
-### Connect with me:
+### 💼 Professional experience
 
-[![Connect](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/krishanu-p/)
-<br />
-<br />
+- Full stack dev at **Viamagus** since Oct 2023 — offline-first mobile apps, real-time processing platforms, content & tracking systems
+- Previously interned at Riverhouse Technologies
 
+### ⚡ Fun facts
 
+- Play tabla & drums 🥁 — rhythm absolutely helps with debugging
+- Regular swimmer · B.Tech CS, CSIT Durg (2023)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanu-d&show_icons=true&locale=en&layout=compact" alt="krishanu-d" /></p>
+---
 
+### 🛠 Tech I use
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanu-d&" alt="krishanu-d" /></p>
+`React Native` `React 18+` `TypeScript` `NestJS` `Node.js` `GraphQL` `Apollo Client` `WatermelonDB` `Redux` `Firebase` `MySQL` `Vite` `Ant Design` `Postman`
+
+---
+
+### 📊 Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanu-d&show_icons=true&locale=en&layout=compact" alt="krishanu-d" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanu-d" alt="krishanu-d" />
+</p>
+
+---
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/krishanu-p/)
